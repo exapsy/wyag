@@ -1,0 +1,5 @@
+# IDE / Text Editor conf
+.vscode
+
+# Cache
+__pycache__
